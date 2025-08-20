@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files
+*.npy
+*.npz
+*.csv
+*.h5
+*.pkl
+*.dcm
+*.svs
+*.tiff
+*.ndpi
+
+# Model weights
+*.pt
+*.pth
+
+# Logs
+*.log
+logs/
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
